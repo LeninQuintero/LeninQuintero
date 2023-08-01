@@ -1,7 +1,6 @@
 <html>
 <body>
-<div align="center">
-<h1 align="center">Hi <img width="35" src="assets/waving.gif">, I'm Lenin Quintero</h1>
+<div style="font-size: 1.5rem">
 
 <div align="center">
   <a href="https://leninquintero.ar">
@@ -9,20 +8,33 @@
        alt="snake" /></a>
 </div>
 
------
+<h1 align="center">Hi <img width="35" src="assets/waving.gif">, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></h1>
+
+
 <details>
-  <summary>🧮 About me</summary>
+  <summary>📚 About me</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+
  
  </samp>
 </div>
 </details>
- 
 
+-----
 <details>
-  <summary>☎️ Contact me</summary>
+  <summary><span>🛠️ Skills</span></summary>
+<div>
+<samp>
+
+ 
+ </samp>
+</div>
+</details>
+
+-----
+<details>
+  <summary>📞 Contact me</summary>
 <div>
   <samp>
     <p align="center">
@@ -35,9 +47,9 @@
       <a href="mailto:contacto@leninquintero.ar" target="blank"><img align="center"
          src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="LeninQuintero" height="30"/></a>
-               <a href="https://wa.me/+5491127695285" target="blank"><img align="center"
+      <a href="https://wa.me/+5491127695285" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="LeninQuintero" height="30"/>
+         alt="LeninQuintero" height="30"/></a>
     </p>
   </samp>
 </div>
