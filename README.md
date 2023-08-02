@@ -7,10 +7,22 @@
 <h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp></h1>
 <br>
 <details>
-<summary><samp>📚 <font size="5"><strong>About me</strong></font></samp></summary>
+<summary><samp>📚 <strong>About me</strong></samp></summary>
+<div>
+<p>
+<samp>
+I recently <strong>discovered programming</strong> and fell in love with it. I have primarily focused my attention on the <strong>Spring Boot</strong> - <strong>Angular</strong> - <strong>MySQL</strong> stack. I am also proficient in using tools such as <strong>Git</strong>, <strong>Docker</strong>, and I have a basic understanding of cloud services like <strong>Azure</strong>, <strong>AWS</strong>, and <strong>Firebase</strong>.<br><br> I am a very curious individual who enjoys comprehending how things work and <strong>finding creative solutions to problems</strong>. I have explored many fields in my life and learned from each one of them, but <strong>I am determined to dedicate myself to programming</strong> from now on.
+ </samp>
+ </p>
+</div>
+</details>
+
+-----
+<details>
+  <summary><samp>🛠️ <strong>Skills</strong></samp><span> </span></summary>
 <div>
 <samp>
-I recently discovered programming and fell in love with it. I have primarily focused my attention on the Spring Boot - Angular - MySQL stack. I am also proficient in using tools such as Git, Docker, and I have a basic understanding of cloud services like Azure, AWS, and Firebase. I am a very curious individual who enjoys comprehending how things work and finding creative solutions to problems. I have explored many fields in my life and learned from each one of them, but I am determined to dedicate myself to programming from now on.
+
  
  </samp>
 </div>
@@ -18,18 +30,7 @@ I recently discovered programming and fell in love with it. I have primarily foc
 
 -----
 <details>
-  <summary><span>🛠️ Skills</span></summary>
-<div>
-<samp>
-
- 
- </samp>
-</div>
-</details>
-
------
-<details>
-  <summary>📞 Contact me</summary>
+  <summary><samp>📞 <strong>Contact me</strong></samp></summary>
 <div>
   <samp>
     <p align="center">
@@ -50,7 +51,7 @@ I recently discovered programming and fell in love with it. I have primarily foc
 </div>
 </details>
 
-
+-----
 <div align="center">
   <a href="https://leninquintero.ar">
   <img  src="assets/grid-snake.svg"
