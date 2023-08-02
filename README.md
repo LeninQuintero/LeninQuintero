@@ -8,13 +8,12 @@
 <br>
 <details>
 <summary><samp>📚 <strong>About me</strong></samp></summary>
-<div>
 <p>
+<br>
 <samp>
 I recently <strong>discovered programming</strong> and fell in love with it. I have primarily focused my attention on the <strong>Spring Boot</strong> - <strong>Angular</strong> - <strong>MySQL</strong> stack. I am also proficient in using tools such as <strong>Git</strong>, <strong>Docker</strong>, and I have a basic understanding of cloud services like <strong>Azure</strong>, <strong>AWS</strong>, and <strong>Firebase</strong>.<br><br> I am a very curious individual who enjoys comprehending how things work and <strong>finding creative solutions to problems</strong>. I have explored many fields in my life and learned from each one of them, but <strong>I am determined to dedicate myself to programming</strong> from now on.
  </samp>
  </p>
-</div>
 </details>
 
 -----
