@@ -7,7 +7,7 @@
 <h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp></h1>
 <br>
 <details>
-<summary><samp>📚 <strong>About me</strong></samp></summary>
+<summary><samp>📚 <strong style="font-size: 20px;">About me</strong></samp></summary>
 <div>
 <samp>
 I recently discovered programming and fell in love with it. I have primarily focused my attention on the Spring Boot - Angular - MySQL stack. I am also proficient in using tools such as Git, Docker, and I have a basic understanding of cloud services like Azure, AWS, and Firebase. I am a very curious individual who enjoys comprehending how things work and finding creative solutions to problems. I have explored many fields in my life and learned from each one of them, but I am determined to dedicate myself to programming from now on.
