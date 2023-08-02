@@ -1,21 +1,17 @@
 <html>
 <body>
-<div style="font-size: 1.5rem">
+<div>
 
-<div align="center">
-  <a href="https://leninquintero.ar">
-  <img  src="assets/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
-<h1 align="center">Hi <img width="35" src="assets/waving.gif">, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></h1>
+
+<h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp></h1>
 
 
 <details>
-  <summary>📚 About me</summary>
+<summary>##📚 About me## </summary>
 <div>
 <samp>
-
+I recently discovered programming and fell in love with it. I have primarily focused my attention on the Spring Boot - Angular - MySQL stack. I am also proficient in using tools such as Git, Docker, and I have a basic understanding of cloud services like Azure, AWS, and Firebase. I am a very curious individual who enjoys comprehending how things work and finding creative solutions to problems. I have explored many fields in my life and learned from each one of them, but I am determined to dedicate myself to programming from now on.
  
  </samp>
 </div>
@@ -54,3 +50,10 @@
   </samp>
 </div>
 </details>
+
+
+<div align="center">
+  <a href="https://leninquintero.ar">
+  <img  src="assets/grid-snake.svg"
+       alt="snake" /></a>
+</div>
