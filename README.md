@@ -2,9 +2,8 @@
 <body>
 <div>
 
+<h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp><br></h1>
 
-
-<h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp></h1>
 <br>
 <details>
 <summary><samp>📚 <strong>About me</strong></samp></summary>
@@ -16,7 +15,7 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
  </p>
 </details>
 
------
+<br>
 <details>
   <summary><samp>🛠️ <strong>Skills</strong></samp><span> </span></summary>
 <div>
@@ -27,7 +26,7 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
 </div>
 </details>
 
------
+<br>
 <details>
   <summary><samp>📞 <strong>Contact me</strong></samp></summary>
 <div>
@@ -50,7 +49,7 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
 </div>
 </details>
 
------
+<br>
 <div align="center">
   <a href="https://leninquintero.ar">
   <img  src="assets/grid-snake.svg"
