@@ -23,116 +23,49 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
     <td width="50%">
      <h2>🛠 Frontend</h2>
     <br>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-     <br>
-     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
-     <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-     <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>
-     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
-     <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat&logo=typescript" height="25"/>
+     <img src="https://img.shields.io/badge/-RxJS-100719?style=flat&logo=reactivex" height="25"/>
+     <img src="https://img.shields.io/badge/-Angular-100719?style=flat&logo=angular" height="25"/>
+     <img src="https://img.shields.io/badge/-CSS3-100719?style=flat&logo=CSS3" height="25"/>
+     <img src="https://img.shields.io/badge/-Bootstrap-100719?style=flat&logo=bootstrap" height="25"/>
+     <img src="https://img.shields.io/badge/-JavaScript-100719?style=flat&logo=javascript" height="25"/>
+     <img src="https://img.shields.io/badge/-HTML5-100719?style=flat&logo=HTML5" height="25"/>
      <br><br>
     </td>
     <td width="50%">
       <h2>🛠 Backend</h2>
-     <br>
-     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-     <br>
-     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
-     <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-     <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>
-     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
-     <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+    <br>
+     <img src="https://img.shields.io/badge/-Spring Boot-100719?style=flat&logo=springboot" height="25"/>
+     <img src="https://img.shields.io/badge/-Java-100719?style=flat&logo=java" height="25"/>
+     <img src="https://img.shields.io/badge/-Swagger-100719?style=flat&logo=swagger" height="25"/>
+     <img src="https://img.shields.io/badge/-Junit5-100719?style=flat&logo=junit5" height="25"/>
+     <img src="https://img.shields.io/badge/-Mockito-100719?style=flat&logo=mockito" height="25"/>
+     <img src="https://img.shields.io/badge/-Hibernate-100719?style=flat&logo=hibernate" height="25"/>
+     <img src="https://img.shields.io/badge/-Maven-100719?style=flat&logo=apachemaven" height="25"/>
+     <img src="https://img.shields.io/badge/-MySQL-100719?style=flat&logo=mysql" height="25"/>
      <br><br>
     </td>
   </tr>
   <tr>
    <td colspan="2">
      <h2>🛠 Other tools that I also use</h2>
-      <br>
-     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat&logo=typescript" height="25"/>
-     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat&logo=typescript" height="30"/>
-     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat-square&logo=typescript" height="30"/>
-     <img src="https://img.shields.io/badge/-C++-2E2E2E?style=flat&logo=C%2B%2B" height="30"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-     <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-     <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-     <br>
-     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
-     <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-     <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>
-     <img src="https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter"/>
-     <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-     <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
-     <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+    <br>
+     <img src="https://img.shields.io/badge/-Python-100719?style=flat&logo=python" height="25"/>
+     <img src="https://img.shields.io/badge/-Docker-100719?style=flat&logo=docker" height="25"/>
+     <img src="https://img.shields.io/badge/-Git-100719?style=flat&logo=git" height="25"/>
+     <img src="https://img.shields.io/badge/-Azure-100719?style=flat&logo=microsoftazure" height="25"/>
+     <img src="https://img.shields.io/badge/-AWS-100719?style=flat&logo=amazonaws" height="25"/>
+     <img src="https://img.shields.io/badge/-Wordpress-100719?style=flat&logo=wordpress" height="25"/>
+     <img src="https://img.shields.io/badge/-VS Code-100719?style=flat&logo=visualstudiocode" height="25"/>
+     <img src="https://img.shields.io/badge/-VirtualBox-100719?style=flat&logo=virtualbox" height="25"/>
+     <img src="https://img.shields.io/badge/-Intellij IDEA-100719?style=flat&logo=intellijidea" height="25"/>
+     <img src="https://img.shields.io/badge/Netbeans IDE-100719?style=flat&logo=apachenetbeanside" height="25"/>
+     <img src="https://img.shields.io/badge/-Postman-100719?style=flat&logo=postman" height="25"/>
+     <img src="https://img.shields.io/badge/-WooCommerce-100719?style=flat&logo=woo" height="25"/>
+     <img src="https://img.shields.io/badge/-Linux-100719?style=flat&logo=linux" height="25"/>
+     <img src="https://img.shields.io/badge/-Power BI-100719?style=flat&logo=powerbi" height="25"/>
+     <img src="https://img.shields.io/badge/-Looker-100719?style=flat&logo=looker" height="25"/>
+    <img src="https://img.shields.io/badge/-Excel-100719?style=flat&logo=microsoftexcel" height="25"/>
      <br><br>
     </td>
   </tr>
