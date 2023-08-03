@@ -99,8 +99,9 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
    <td colspan="2">
      <h2>🛠 Other tools that I also use</h2>
       <br>
-     <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=flat&logo=typescript" height="30"/>
-     <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=flat-square&logo=typescript" height="30"/>
+     <img src="https://img.shields.io/badge/-TypeScript-190718?style=flat&logo=typescript" height="30"/>
+     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat&logo=typescript" height="30"/>
+     <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat-square&logo=typescript" height="30"/>
      <img src="https://img.shields.io/badge/-C++-2E2E2E?style=flat&logo=C%2B%2B" height="30"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
