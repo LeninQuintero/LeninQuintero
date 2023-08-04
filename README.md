@@ -2,11 +2,11 @@
 <body>
 <div>
 
-<h1 align="center"><img width="35" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp><br><br></h1>
+<h1 align="center"><img width="25" src="assets/waving.gif"><samp> Hi everyone, I'm <a href="https://leninquintero.ar"> Lenin Quintero</a></samp><br><br></h1>
 
 <br>
 <details>
-<summary><samp>📚 <strong>About</strong></samp></summary>
+<summary><samp>📚 <strong>About Me</strong></samp></summary>
 <p>
 <br>
 <samp>
@@ -16,12 +16,12 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
 </details>
 
 <details>
-  <summary><samp>🛠️ <strong>Tech stack<br></strong></samp></summary>
+  <summary><samp>🛠️ <strong>Tech Stack<br></strong></samp></summary>
  <br>
   <table align="center">
   <tr>
     <td width="50%">
-     <h2>🛠 Frontend</h2>
+     <h2>🖥️ Frontend</h2>
     <br>
      <img src="https://img.shields.io/badge/-TypeScript-100719?style=flat&logo=typescript" height="25"/>
      <img src="https://img.shields.io/badge/-RxJS-100719?style=flat&logo=reactivex" height="25"/>
@@ -33,7 +33,7 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
      <br><br>
     </td>
     <td width="50%">
-      <h2>🛠 Backend</h2>
+      <h2>🗄️ Backend</h2>
     <br>
      <img src="https://img.shields.io/badge/-Spring Boot-100719?style=flat&logo=springboot" height="25"/>
      <img src="https://img.shields.io/badge/-Java-100719?style=flat&logo=java" height="25"/>
@@ -48,13 +48,14 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
   </tr>
   <tr>
    <td colspan="2">
-     <h2>🛠 Other tools that I also use</h2>
+     <h2>🧰 Other technologies that I also use</h2>
     <br>
      <img src="https://img.shields.io/badge/-Python-100719?style=flat&logo=python" height="25"/>
      <img src="https://img.shields.io/badge/-Docker-100719?style=flat&logo=docker" height="25"/>
      <img src="https://img.shields.io/badge/-Git-100719?style=flat&logo=git" height="25"/>
      <img src="https://img.shields.io/badge/-Azure-100719?style=flat&logo=microsoftazure" height="25"/>
      <img src="https://img.shields.io/badge/-AWS-100719?style=flat&logo=amazonaws" height="25"/>
+     <img src="https://img.shields.io/badge/-Firebase-100719?style=flat&logo=firebase" height="25"/>
      <img src="https://img.shields.io/badge/-Wordpress-100719?style=flat&logo=wordpress" height="25"/>
      <img src="https://img.shields.io/badge/-VS Code-100719?style=flat&logo=visualstudiocode" height="25"/>
      <img src="https://img.shields.io/badge/-VirtualBox-100719?style=flat&logo=virtualbox" height="25"/>
@@ -66,6 +67,7 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
      <img src="https://img.shields.io/badge/-Power BI-100719?style=flat&logo=powerbi" height="25"/>
      <img src="https://img.shields.io/badge/-Looker-100719?style=flat&logo=looker" height="25"/>
     <img src="https://img.shields.io/badge/-Excel-100719?style=flat&logo=microsoftexcel" height="25"/>
+    <img src="https://img.shields.io/badge/-Google Sheets-100719?style=flat&logo=googlesheets" height="25"/>
      <br><br>
     </td>
   </tr>
@@ -73,25 +75,19 @@ I recently <strong>discovered programming</strong> and fell in love with it. I h
 </details>
 
 <details>
-  <summary><samp>📞 <strong>Connect with me</strong></samp></summary>
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-    <a href="https://www.linkedin.com/in/leninquintero/" target="blank">
-        <img align="center"
-            src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LeninQuintero" height="30"/>
-    </a>
-      <a href="mailto:contacto@leninquintero.ar" target="blank"><img align="center"
-         src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="LeninQuintero" height="30"/></a>
-      <a href="https://wa.me/+5491127695285" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="LeninQuintero" height="30"/></a>
-    </p>
-  </samp>
-</div>
+  <summary><samp>📞 <strong>Connect with Me</strong></samp></summary>
+  <br><br>
+    <div align="center">
+      <a href="mailto:contacto@leninquintero.ar" target="blank" >
+       <img align="center" src="https://img.shields.io/badge/Email-EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="LeninQuintero" height="35"/>
+      </a>
+      <a href="https://www.linkedin.com/in/leninquintero/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=flat&logo=linkedin&logoColor=white" alt="LeninQuintero" height="35"/>
+      </a>
+      <a href="https://wa.me/+5491127695285" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-4B7F1.svg?style=flat&logo=whatsapp&logoColor=white" alt="LeninQuintero" height="35"/>
+      </a>
+    </div>
+    <br><br>
 </details>
 
 <div align="center">
